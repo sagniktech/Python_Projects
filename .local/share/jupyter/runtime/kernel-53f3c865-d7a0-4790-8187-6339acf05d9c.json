@@ -1,0 +1,12 @@
+{
+  "shell_port": 47891,
+  "iopub_port": 45203,
+  "stdin_port": 36795,
+  "control_port": 54351,
+  "hb_port": 43174,
+  "ip": "127.0.0.1",
+  "key": "35438d0e-9715b6ea3edd32ec6cc5e6f8",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "apache_toree_scala"
+}
